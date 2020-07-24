@@ -1,7 +1,9 @@
 # Flappy-bird
 Copy of flappy bird game, built using p5.js (Uses a circles instead of a bird though !)
 
-GamePlay
+----- GamePlay ----
+
+
 ![](results/play_thing.PNG)
 
 After losing - 
